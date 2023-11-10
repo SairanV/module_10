@@ -43,16 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class\Person.cs" />
     <Compile Include="Class\SimpleCalculator.cs" />
     <Compile Include="Interface\AdvancedCalculator.cs" />
     <Compile Include="Interface\ICalculatable.cs" />
     <Compile Include="Interface\IStorable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Class\Student.cs" />
-    <Compile Include="Class\StudentWithAdvisor.cs" />
-    <Compile Include="Class\Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
